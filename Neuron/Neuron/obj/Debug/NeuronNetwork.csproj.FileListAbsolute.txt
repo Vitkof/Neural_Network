@@ -1,0 +1,6 @@
+C:\Users\vitko\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\NeuronNetwork.csproj.CoreCompileInputs.cache
+C:\Users\vitko\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\Neuron.exe.config
+C:\Users\vitko\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\Neuron.exe
+C:\Users\vitko\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\Neuron.pdb
+C:\Users\vitko\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\Neuron.exe
+C:\Users\vitko\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\Neuron.pdb
